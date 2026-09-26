@@ -1,0 +1,14 @@
+project:
+  name: "Enterprise User Management API Automation Framework"
+  version: "1.0.0"
+
+apis:
+  jsonplaceholder:
+    base_url: "https://jsonplaceholder.typicode.com"
+  automation_exercise:
+    base_url: "https://automationexercise.com"
+
+execution:
+  timeout: 15
+  verify_ssl: true
+  log_level: "INFO"

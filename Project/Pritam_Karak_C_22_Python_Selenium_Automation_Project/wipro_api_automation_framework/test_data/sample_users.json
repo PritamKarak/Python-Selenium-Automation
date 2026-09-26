@@ -1,0 +1,14 @@
+{
+  "jsonplaceholder": {
+    "create_user": {
+      "name": "Wipro Capstone User",
+      "username": "wipro_automation",
+      "email": "wipro.automation@example.com"
+    },
+    "update_user": {
+      "name": "Updated Wipro User",
+      "username": "updated_wipro",
+      "email": "updated.wipro@example.com"
+    }
+  }
+}

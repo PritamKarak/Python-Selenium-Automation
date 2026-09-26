@@ -1,0 +1,7 @@
+default:
+  jsonplaceholder: "https://jsonplaceholder.typicode.com"
+  automation_exercise: "https://automationexercise.com"
+
+qa:
+  jsonplaceholder: "https://jsonplaceholder.typicode.com"
+  automation_exercise: "https://automationexercise.com"
