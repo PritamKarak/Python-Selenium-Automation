@@ -4,7 +4,7 @@ This repository contains the complete coursework, practical assignments, lab exe
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The repository is divided into two primary sections: progressive learning **Assignments** and the **Final Project**.
 
@@ -30,7 +30,7 @@ The `Project/` directory contains the final **REST API Automation Framework** de
 
 The framework is designed to automate positive and negative API scenarios while providing reusable API clients, centralized configuration, response validation, logging, API execution evidence, and detailed Allure reporting.
 
-#### 🛠️ Technologies Used
+####  Technologies Used
 
 - **Python** - Core programming language
 - **Requests** - REST API communication
@@ -40,7 +40,7 @@ The framework is designed to automate positive and negative API scenarios while 
 - **Pillow** - API execution evidence generation
 - **Git/GitHub** - Version control
 
-#### 📁 Core Framework Components
+####  Core Framework Components
 
 - **`config/`**: Contains configuration files used for managing API settings and environment-related configurations.
 
@@ -62,7 +62,7 @@ The framework is designed to automate positive and negative API scenarios while 
 
 ---
 
-## 🧪 API Test Scenarios
+##  API Test Scenarios
 
 The final project includes automated API scenarios covering authentication, user management, and negative testing.
 
